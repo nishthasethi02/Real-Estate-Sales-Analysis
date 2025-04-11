@@ -7,8 +7,7 @@ This project analyzes the Connecticut Real Estate Sales dataset from 2001 to 202
 ---
 
 ## 📁 Dataset
-- **Source**: [Connecticut Real Estate Sales Data](https://data.ct.gov/)
-- **Period Covered**: 2001 to 2022
+- **Source**: https://catalog.data.gov/dataset/real-estate-sales-2001-2018
 - **Format**: CSV
 - **Size**: ~500,000 records
 - **Key Columns**:
